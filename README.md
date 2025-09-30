@@ -46,10 +46,10 @@ git clone https://github.com/HumayraMusarrat/YourRepoName.git
    python training.py
    python test.py
 
-##Future Work
+## Future Work
 Extend to multiple cities for better generalization
 Explore advanced deep learning models for superior accuracy
 
-##Contact
+## Contact
 Humayra Musarrat – humayramusarrat89@gmail.com
 
