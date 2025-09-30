@@ -20,4 +20,34 @@ Bicycle-sharing systems are essential for modern urban mobility, but efficiently
 - **Naive Baseline:** Accuracy 50%, highlighting the significant improvement from ML models.
 
 ## Repository Structure
+HumayraMusarrat/
+├── data_analysis.py # Exploratory Data Analysis & feature engineering
+├── training.py # Model training and hyperparameter tuning
+├── test.py # Model evaluation on test data
+├── README.md # Project overview and instructions
+
+## Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/HumayraMusarrat/YourRepoName.git
+```
+
+2. Install dependancies
+
+   pip install -r requirements.txt
+
+3. Run the script
+
+   python data_analysis.py
+   python training.py
+   python test.py
+
+Future Work
+Extend to multiple cities for better generalization
+
+
+Contact
+Humayra Musarrat – humayramusarrat89@gmail.com
 
