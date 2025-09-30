@@ -21,17 +21,6 @@ Bicycle-sharing systems are essential for modern urban mobility, but efficiently
 - **Other Models:** Logistic Regression, LDA, and QDA achieved up to 90% accuracy.  
 - **Naive Baseline:** Accuracy 50%, highlighting the significant improvement from ML models.
 
-## Model Performance 📊
-
-### Accuracy Comparison
-![Accuracy Comparison](images/model_accuracy.png)
-
-### F1-Weighted Score Comparison
-![F1-Weighted](images/f1_weighted.png)
-
-### F1-Macro Score Comparison
-![F1-Macro](images/f1_macro.png)
-
 
 ## Repository Structure
  <pre>
