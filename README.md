@@ -1,4 +1,6 @@
-# Predictive Analytics for Smart Bike-Sharing Optimization
+# Predictive Analytics for Smart Bike-Sharing Optimization 🚴‍♀️📊
+
+![Python](https://img.shields.io/badge/Python-3.9+-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Accuracy](https://img.shields.io/badge/Top%20Model%20Accuracy-93%25-brightgreen)
 
 This project focuses on predicting bicycle demand in public bike-sharing systems using machine learning. The goal is to optimize bike availability across different hours and days, helping operators improve service efficiency and user satisfaction.
 
@@ -44,10 +46,10 @@ git clone https://github.com/HumayraMusarrat/YourRepoName.git
    python training.py
    python test.py
 
-Future Work
+##Future Work
 Extend to multiple cities for better generalization
+Explore advanced deep learning models for superior accuracy
 
-
-Contact
+##Contact
 Humayra Musarrat – humayramusarrat89@gmail.com
 
