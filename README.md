@@ -34,13 +34,13 @@ Bicycle-sharing systems are essential for modern urban mobility, but efficiently
 
 
 ## Repository Structure
-
+ <pre>
 HumayraMusarrat/
 ├── data_analysis.py    # Exploratory Data Analysis & feature engineering
 ├── training.py         # Model training and hyperparameter tuning
 ├── test.py             # Model evaluation on test data
 ├── README.md           # Project overview and instructions
-
+</pre>
 
 ## Getting Started
 
